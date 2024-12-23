@@ -80,7 +80,7 @@ This project demonstrates the potential of machine learning in agriculture by ut
 ---
 
 ## **Future Work**  
-- Integrate real-time soil parameter sensing using IoT devices.  
+- Integrate real-time predictions on IoT devices.  
 - Extend the system to predict yields for other crops.  
 - Explore advanced algorithms like DBSCAN or Hierarchical Clustering for improved clustering accuracy.  
 
